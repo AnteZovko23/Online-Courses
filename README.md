@@ -1,5 +1,5 @@
 
-<h1 align="center"> Welcome!</h1>
+<h1 align="center">Welcome!</h1>
 <br>
 
 <h2 align="center">My name is Ante Zovko and I am a Backend Software Engineer</h2> 
@@ -29,11 +29,11 @@
 
 ## Various Demo Projects from Online Courses
 
-<li><h3>Web Development</h3><ul>
+<h3>Web Development</h3><ul>
 <li>HTML/CSS/JavaScript</li>
 <li>jQuery</li>
 <li>BootStrap</li>
 <li>Link: <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp</a></li>
-</ul></li>
+</ul>
 
 <br>
