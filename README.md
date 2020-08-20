@@ -27,9 +27,7 @@
 
 <h1 align="center">About the Repository:</h1>
 
-## Various Demo Projects from Online Courses
-
-<h3>Web Development</h3><ul>
+<h2>Web Development</h2><ul>
 <li>HTML/CSS/JavaScript</li>
 <li>jQuery</li>
 <li>BootStrap</li>
