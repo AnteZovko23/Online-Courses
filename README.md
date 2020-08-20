@@ -28,19 +28,33 @@
 <h1 align="center">About the Repository:</h1>
 
 <br>
-<h2>Python Bootcamp</h2><ul>
+<h1>Python Bootcamp</h1>
+
+<br>
+
+## Topics Covered
+<ul>
 <li>Objects and Data Structures</li>
 <li>Methods and Functions</li>
 <li>OOP</li>
 <li>Modules and Packages</li>
 <li>Error Handling</li>
 <li>Link: <a href="https://www.udemy.com/course/complete-python-bootcamp/">The Python Bootcamp</a></li>
-
 </ul>
 
 <br>
 
-<h2>Web Developer Bootcamp</h2><ul>
+## Certificate: 
+<img witdh="350" height="350" src = "https://github.com/AnteZovko23/Projects-Online-Courses/blob/master/Python%20Bootcamp%20/Screenshots/Certificate.jpg">
+
+<br>
+<br>
+
+<h1>Web Developer Bootcamp</h1>
+
+## Topics Covered
+
+<ul>
 <li>HTML/CSS/JavaScript</li>
 <li>jQuery</li>
 <li>BootStrap</li>
