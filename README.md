@@ -27,7 +27,7 @@
 
 <h1 align="center">About the Repository:</h1>
 
-<h2>Web Development</h2><ul>
+<h2>Web Developer Bootcamp</h2><ul>
 <li>HTML/CSS/JavaScript</li>
 <li>jQuery</li>
 <li>BootStrap</li>
