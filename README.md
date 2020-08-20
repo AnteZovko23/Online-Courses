@@ -32,7 +32,7 @@
 
 <br>
 
-## Topics Covered (So far)
+## Topics Covered 
 <ul>
 <li>Objects and Data Structures</li>
 <li>Methods and Functions</li>
@@ -52,7 +52,7 @@
 
 <h1>Web Developer Bootcamp</h1>
 
-## Topics Covered
+## Topics Covered (So far)
 
 <ul>
 <li>HTML/CSS/JavaScript</li>
