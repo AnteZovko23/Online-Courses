@@ -27,11 +27,26 @@
 
 <h1 align="center">About the Repository:</h1>
 
+<br>
+<h2>Python Bootcamp</h2><ul>
+<li>Objects and Data Structures</li>
+<li>Methods and Functions</li>
+<li>OOP</li>
+<li>Modules and Packages</li>
+<li>Error Handling</li>
+<li>Link: <a href="https://www.udemy.com/course/complete-python-bootcamp/">The Python Bootcamp</a></li>
+
+</ul>
+
+<br>
+
 <h2>Web Developer Bootcamp</h2><ul>
 <li>HTML/CSS/JavaScript</li>
 <li>jQuery</li>
 <li>BootStrap</li>
 <li>Link: <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp</a></li>
 </ul>
+
+
 
 <br>
