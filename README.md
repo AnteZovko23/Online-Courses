@@ -49,8 +49,10 @@
 
 <br>
 <br>
+<br>
 
 <h1>Web Developer Bootcamp</h1>
+<br>
 
 ## Topics Covered (So far)
 
