@@ -32,7 +32,7 @@
 
 <br>
 
-## Topics Covered
+## Topics Covered (So far)
 <ul>
 <li>Objects and Data Structures</li>
 <li>Methods and Functions</li>
